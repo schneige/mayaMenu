@@ -1,0 +1,22 @@
+{
+  "FRIDAY": {
+    "Item 1": "Gyros-Käse-Suppe mit Paprika, Tomaten \u0026 pikantem Zaziki € 7,90",
+    "Item 2": "Kartoffel-Erbsen-Suppe mit süßem Senf -VEGAN- € 6,50"
+  },
+  "MONDAY": {
+    "Item 1": "Bud Spencer Gedächtnissuppe – mex. Bohneneintopf mit Huhn, Rinderhack, Mais \u0026 Crème Fraîche € 7,50",
+    "Item 2": "Vegane Bolognese mit Bio-Soja-Hack, Gemüse-Brunoise, Tomaten, Fussili \u0026 Basilikum -VEGAN- € 6,50"
+  },
+  "THURSDAY": {
+    "Item 1": "Spanischer Reistopf mit Huhn, Garnelen, Chorizo, Paprika \u0026 Erbsen € 7,90",
+    "Item 2": "Ananas-Kokos-Kürbissuppe mit Süßkartoffeln \u0026 Rucola-Erdnuss-Pesto -VEGAN- € 6,90"
+  },
+  "TUESDAY": {
+    "Item 1": "Bologneser Eintopf mit Rinderhack, Tomaten, Gemüse-Brunoise, Fussili \u0026 Parmesan € 7,90",
+    "Item 2": "Ital. Spargelsuppe mit weißem \u0026 grünem Spargel, Erbsen, Artischocken, Salbei \u0026 Parmesan, ohne Parmesan -VEGAN- € 6,90"
+  },
+  "WEDNESDAY": {
+    "Item 1": "Ital. Spargelsuppe mit Pancetta, weißem \u0026 grünem Spargel, Erbsen, ital. Kräutern \u0026 Parmesan € 7,90",
+    "Item 2": "Ramen – jap. Nudelsuppe mit Edamame, geräuchertem Bio-Tofu, gerösteten Zwiebeln \u0026 Wasabi-Nüssen -VEGAN- € 6,90"
+  }
+}
